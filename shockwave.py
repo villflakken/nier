@@ -1,5 +1,8 @@
 import pylab as pl
 
+# Disclosure for the sake of the current git repo: 
+# This code is borrowed from a kind-hearted soul on the internet, whose identity I have lost in the annals of time.
+
 # Known values # Taken from URL: (https://nierautomata.wiki.fextralife.com/Shock+Wave)
 factor0 = 1.
 factor1 = 1.5
